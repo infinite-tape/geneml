@@ -1,0 +1,15 @@
+items1.txt
+ Items:		50
+ Max: 		10701
+ Target: 	7843
+ Generations: 	1000
+Trials:
+ #1 Population size: 100
+
+items2.txt
+ Items: 	100
+ Max: 		19685
+ Target: 	5000
+ Generations: 	1000
+Trials:
+ #1 Population size: 1000
